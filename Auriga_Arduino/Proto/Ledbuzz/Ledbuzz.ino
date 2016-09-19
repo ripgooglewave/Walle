@@ -1,17 +1,9 @@
 /**
- * \par Copyright (C), 2012-2016, Jakob Schyberg
- * @file    Proto_1.ino
+ * \par Copyright (C), 2016, Jakob Schyberg
  * @author  Jakob Schyberg
  * @version V1.0.0
  * @date    2016/09/18
  * @brief   Description: Prototype 1 for "Walle"
- *
- * Function List:
- * 1. void MeGyro::begin(void)
- * 2. void MeGyro::update(void) 
- * 3. double MeGyro::angleX(void)
- * 4. double MeGyro::angleY(void)
- * 5. double MeGyro::angleZ(void)
  *
  */
 
@@ -34,7 +26,7 @@ void setup()
   buzzer.setpin(BUZZER_PORT);
   led.setColor(5,255,0,0);
   led.show();
-  //buzzer.tone(1000,1000); 
+  //buzzer.tone(1000,1000);
 }
 
 int i = 0;
@@ -47,11 +39,10 @@ void loop()
   led.show();
   j+=10;
   i++;
-  buzzer.tone(1000,1000); 
+  buzzer.tone(1000,1000);
   /*
   Serial.read();
   Serial.print(" i:");
   Serial.println(i);*/
-  
-}
 
+}
