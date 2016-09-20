@@ -17,7 +17,7 @@ This is a very open thing. The goal is to learn and play, build a robot, have fu
 I will probably not use Makeblocks graphical programming language mBlock much, instead do Arduino programming directly with C/C++
 or use JavaScript/Java libs, anything that is handy.
 
-The vision is also connecting a micro computer, like Raspberry Pi. 
+The vision also includes connecting a micro computer, like Raspberry Pi. 
 Maybe connect him to a cloud, like Amazon.
 
 Inspiration from: http://blog.jdriven.com/2016/04/mission-mars/
