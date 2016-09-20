@@ -42,5 +42,6 @@ Follow these instructions to get started:
 http://learn.makeblock.com/en/learning-arduino-programming-ranger/
 
 What you need:
-* 1 Mbot Ranger from makeblock (http://www.makeblock.com/robot-kit-series-STEM/mbot-ranger)
 * Computer (Mac/Linux or Windows)
+* 1 Mbot Ranger from makeblock (http://www.makeblock.com/robot-kit-series-STEM/mbot-ranger)
+* (You can also use an Auriga and plug in the components you want http://www.makeblock.com/electronic-robot-kit-series-STEM/me-auriga)
