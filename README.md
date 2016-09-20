@@ -35,7 +35,7 @@ to map him to the correct ports so you can control his on-board features with it
 
 # Prototype demos
 
-I've started by adding some simple tests in the prototype folder. To run these, you need to install the Arduino IDE and the USB drivers on your computer.
+I've started by adding some simple tests in the 'Proto' folder. To run these, you need to install the Arduino IDE and the USB drivers on your computer.
 You also need to import Makeblocks libraries, because these are used by the prototypes to address the correct ports. 
 Follow these instructions to get started:
 
