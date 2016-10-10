@@ -1,9 +1,8 @@
 /**
- * \par Copyright (C), 2016, Jakob Schyberg
  * @author  Jakob Schyberg
  * @version V1.0.0
  * @date    2016/09/18
- * @brief   Description: Prototype 1 for "Walle"
+ * @brief   Description: Prototype for "Walle"
  *
  */
 
@@ -39,7 +38,7 @@ void loop()
   led.show();
   j+=10;
   i++;
-  buzzer.tone(1000,1000);
+  buzzer.tone(10,10);
   /*
   Serial.read();
   Serial.print(" i:");
